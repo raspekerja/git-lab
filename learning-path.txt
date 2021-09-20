@@ -2,5 +2,7 @@
 - Learn how to Git
   * Download git video from Youtube.
 - Learn how to Commit
+  * Learn from Manual
+  * Step by step
 - Learn how to Merge
 - Learn how to multiples remote
