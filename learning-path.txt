@@ -1,0 +1,5 @@
+- 2 Hours in Week.
+- Learn how to Git
+  * Download git video from Youtube.
+- Learn how to Commit
+- Learn how to Merge
