@@ -1,0 +1,4 @@
+- 2 Hours in Week.
+- Learn how to Git
+- Learn how to Commit
+- Learn how to Merge
