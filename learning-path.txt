@@ -5,4 +5,5 @@
   * Learn from Manual
   * Step by step
 - Learn how to Merge
-- Learn how to multiples remote
+  * Learn how to merge automate
+  
