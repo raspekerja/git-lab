@@ -3,4 +3,4 @@
   * Download git video from Youtube.
 - Learn how to Commit
 - Learn how to Merge
-- Learn how to multiples remote
+  * Learn how to merge manual
