@@ -1,2 +1,2 @@
-# git-resolusi
+# git-lab
 It's all github learning lab.
